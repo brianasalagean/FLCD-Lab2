@@ -1,0 +1,11 @@
+Pair{first=9, second=a}
+Pair{first=10, second=b}
+Pair{first=4, second=/str1/}
+Pair{first=5, second=/str2/}
+Pair{first=0, second=12}
+SymbolTable{HashTable{items=[[12], [], [], [], [/str1/], [/str2/], [], [], [], [a], [b]]}}
+true
+true
+true
+Pair{first=0, second=0}
+Pair{first=5, second=0}
